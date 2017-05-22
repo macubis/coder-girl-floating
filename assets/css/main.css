@@ -1,0 +1,59 @@
+*{
+	margin: 0px
+	padding:0px;
+	box-sizing: border-box;
+	font-size: 16px;
+
+}
+#home{
+	background-image: url(../img/home.jpg);
+	background-size: cover;
+	background-position: center; 
+}
+.cuadradito{
+	color:white;
+	width: 60%;
+	margin: 0 auto;
+	padding: 30px 30px 100px 30px;
+}
+.cuadradito h1 h3 input{
+	font-weight: bolder;
+	font-size:5rem;
+	line-height: 5rem;
+	text-transform: uppercase;
+	margin: 0 auto;
+}
+.cuadradito h1{
+	font-size: 30px;
+}
+.cuadradito h3{
+	font-size: 20px;
+}
+.botoncito1{
+	background-color: blue;
+	color:white;
+	font-size: 20px;
+}
+#medio{
+	background-color: yellow;
+	width:1280px;
+	height: 300px;
+}
+.respe{
+	width: 500px;
+	height: 300px;
+	padding: 40px;
+}
+.parrafo{
+	width: 500px;
+	height:200px;
+	margin:0 40 0 0px;
+	float: right;
+	color: black;
+	font-size: 10px;
+	padding-right: 20PX;
+}
+.incripcion{
+	background-color: blue;
+	color:white;
+}
